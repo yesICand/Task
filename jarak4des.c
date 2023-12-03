@@ -33,5 +33,10 @@ int main()
         cm = x;
         printf("Konversi dari M yang diinput adalah %.5f KM, %.3f M, %.2f CM", km, m, cm);
     }
+    else
+    {
+        printf("Pilihan tidak valid\n");
+        return 1; 
+    }
     return 0;
 }
