@@ -10,7 +10,7 @@ int main()
     printf("Input value 1 = ");
     scanf("%f", &val1);
     //Input operator
-    printf("Select operation (* + - /) =\t");
+    printf("Select operation (* + - /) =");
     scanf(" %c", &opr1);
     //input value 2
     printf("Input value 2 = ");
